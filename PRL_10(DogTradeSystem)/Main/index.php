@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
 <html lang="en" dir="ltr">
    <head>
       <meta charset="utf-8">
@@ -21,14 +20,12 @@
             <ul class="list-items">
                <li><a href="#"><i class="fas fa-home"></i>DashBoard</a></li>
                <li><a href="#"><i class="fas fa-address-book"></i>Clients</a></li>
-               <li><a href="#"><i class="fas fa-cog"></i>Settings</a></li>
                <li><a href="#"><i class="fas fa-stream"></i>Features</a></li>
                <li><a href="#"><i class="fas fa-user"></i>About us</a></li>
                <li><a href="#"><i class="fas fa-envelope"></i>Contact us</a></li>
                <div class="icons">
                   <a href="#"><i class="fab fa-facebook-f"></i></a>
                   <a href="#"><i class="fab fa-twitter"></i></a>
-                  <a href="#"><i class="fab fa-youtube"></i></a>
                </div>
             </ul>
          </nav>
